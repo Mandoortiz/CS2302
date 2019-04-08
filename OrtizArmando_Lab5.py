@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Author: Armando Ortiz
 Course: CS 2302 Data Structures
