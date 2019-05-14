@@ -76,7 +76,7 @@ print("")
 S = []
 print("Equal Subsets")
 start = time.time()
-for i in range(0,10):
+for i in range(10):
     S.append(i)
     print('S:',S)
     Partition(S)
